@@ -3,6 +3,8 @@ Idiopathic Pulmonary Fibrosis (IPF) Differential Gene Expression Analysis:
 This project focuses on identifying **differentially expressed genes (DEGs)** in **Idiopathic Pulmonary Fibrosis (IPF)** compared to **healthy controls** using RNA-Seq data from **GSE150910**.  
 The analysis was performed entirely in **Python**, without using DESeq2 or R-based tools.
 
+![Idiopathic Pulmonary Fibrosis diagram](https://upload.wikimedia.org/wikipedia/commons/4/4b/Idiopathic_pulmonary_fibrosis_diagram.png)
+
 What is Idiopathic Pulmonary Fibrosis?
 
 - **Idiopathic** → means there is no known cause (why this scarring happens).  
